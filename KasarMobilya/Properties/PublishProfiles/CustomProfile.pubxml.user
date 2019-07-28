@@ -1,0 +1,938 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAa7BQcfsF5EODuGriTCSF4QAAAAACAAAAAAAQZgAAAAEAACAAAACwvbjZ4eRN5waYyG0OpKIYy6+vMPpL9qdISYJqiT0fhgAAAAAOgAAAAAIAACAAAABC4AMECOz+QDr798KagE9x69wHQdk/YiCWt9gilO0pwiAAAABpyyw8oeOByO7GzpG15vrLFmYQrdef3RA+VIMhPmszT0AAAACxcNj6N19akCHz6IoAB9Utgr7aYSSRpafCa+h2n9phBi1QJrQ7dqR5tab0NGOnorZHo6BGO3gZqpQgySlnvHRm</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp-eu.site4now.net/kasar.com.tr/home</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>04/01/2018 17:37:22</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/22/2013 07:43:40</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>04/01/2018 17:37:22</publishTime>
+    </File>
+    <File Include="bin/en/KasarMobilya.resources.dll">
+      <publishTime>05/02/2018 11:35:28</publishTime>
+    </File>
+    <File Include="bin/KasarMobilya.dll">
+      <publishTime>05/02/2018 11:35:27</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>11/30/2016 16:07:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>12/07/2016 11:45:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>12/06/2016 15:15:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>12/07/2016 11:49:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>12/06/2016 15:09:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 03:10:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>01/05/2012 10:08:46</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 20:33:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 03:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 03:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 14:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 03:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 03:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 03:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 03:04:30</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/10/2013 17:28:38</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>04/17/2018 20:52:25</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>04/01/2018 17:36:59</publishTime>
+    </File>
+    <File Include="Content/contact.css">
+      <publishTime>04/11/2018 22:45:24</publishTime>
+    </File>
+    <File Include="Content/MegaNavigation.css">
+      <publishTime>05/01/2018 15:22:45</publishTime>
+    </File>
+    <File Include="Content/ProductGallery.css">
+      <publishTime>04/19/2018 19:33:50</publishTime>
+    </File>
+    <File Include="Content/reset.min.css">
+      <publishTime>04/17/2018 20:52:26</publishTime>
+    </File>
+    <File Include="Content/slider.css">
+      <publishTime>04/17/2018 18:38:04</publishTime>
+    </File>
+    <File Include="Content/style.css">
+      <publishTime>05/01/2018 22:58:04</publishTime>
+    </File>
+    <File Include="Content/swiper.min.css">
+      <publishTime>04/11/2018 22:59:15</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/01/2018 17:36:37</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/01/2018 17:36:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/01/2018 17:36:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/01/2018 17:36:59</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/01/2018 17:36:59</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/01/2018 17:36:37</publishTime>
+    </File>
+    <File Include="Images/Navigation/cd-logo.svg">
+      <publishTime>11/05/2014 09:25:54</publishTime>
+    </File>
+    <File Include="Images/Navigation/img.jpg">
+      <publishTime>11/04/2014 15:00:22</publishTime>
+    </File>
+    <File Include="Images/Navigation/line-icon-1.svg">
+      <publishTime>11/03/2014 13:34:16</publishTime>
+    </File>
+    <File Include="Images/Navigation/line-icon-2.svg">
+      <publishTime>11/04/2014 12:08:14</publishTime>
+    </File>
+    <File Include="Images/Navigation/line-icon-3.svg">
+      <publishTime>11/04/2014 12:08:14</publishTime>
+    </File>
+    <File Include="Images/Navigation/line-icon-4.svg">
+      <publishTime>11/04/2014 12:08:14</publishTime>
+    </File>
+    <File Include="Images/Navigation/line-icon-5.svg">
+      <publishTime>11/04/2014 12:08:14</publishTime>
+    </File>
+    <File Include="Images/Navigation/line-icon-6.svg">
+      <publishTime>11/04/2014 12:08:14</publishTime>
+    </File>
+    <File Include="Images/Navigation/line-icon-7.svg">
+      <publishTime>11/04/2014 12:37:12</publishTime>
+    </File>
+    <File Include="Images/Navigation/line-icon-8.svg">
+      <publishTime>11/04/2014 12:37:12</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280166.jpg">
+      <publishTime>04/30/2018 18:50:18</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280171.jpg">
+      <publishTime>03/26/2018 15:53:40</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280176.jpg">
+      <publishTime>04/30/2018 18:56:21</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280186.jpg">
+      <publishTime>03/26/2018 15:53:36</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280200.jpg">
+      <publishTime>03/26/2018 15:53:34</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280206.jpg">
+      <publishTime>04/30/2018 18:59:04</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280212.jpg">
+      <publishTime>03/26/2018 15:53:32</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280222.jpg">
+      <publishTime>03/26/2018 15:53:30</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280231.jpg">
+      <publishTime>03/26/2018 16:20:08</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280232.jpg">
+      <publishTime>03/26/2018 16:04:00</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280233.jpg">
+      <publishTime>03/26/2018 16:03:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280234.jpg">
+      <publishTime>03/26/2018 16:03:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280239.jpg">
+      <publishTime>03/26/2018 15:53:28</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280241.jpg">
+      <publishTime>03/26/2018 15:53:26</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280243.jpg">
+      <publishTime>03/26/2018 15:53:24</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Besikler/CF280248.jpg">
+      <publishTime>03/26/2018 16:20:00</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/812Alaska.jpg">
+      <publishTime>03/26/2018 15:56:24</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/812Beyaz.jpg">
+      <publishTime>03/26/2018 15:56:26</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/812Venezya.jpg">
+      <publishTime>03/26/2018 15:56:24</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/813Flora.jpg">
+      <publishTime>03/26/2018 15:56:32</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/813Lefkas.jpg">
+      <publishTime>03/26/2018 15:56:30</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/813LefkasAcik.jpg">
+      <publishTime>03/26/2018 15:56:28</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/813Venezya.jpg">
+      <publishTime>03/26/2018 15:56:36</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/814Beyaz.jpg">
+      <publishTime>03/26/2018 15:56:14</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/814Flora.jpg">
+      <publishTime>03/26/2018 15:56:16</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/815Beyaz.jpg">
+      <publishTime>03/26/2018 15:56:18</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/815Flora.jpg">
+      <publishTime>03/26/2018 15:56:16</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/816Alaska.jpg">
+      <publishTime>03/26/2018 15:56:22</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/CokAmacliDolaplar/816Venezya.jpg">
+      <publishTime>03/26/2018 15:56:20</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/1000Flora.jpg">
+      <publishTime>03/26/2018 15:44:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/1001Beyaz.jpg">
+      <publishTime>03/26/2018 15:45:20</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/1002Beyaz.jpg">
+      <publishTime>03/26/2018 15:44:44</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/1004Antrasit.jpg">
+      <publishTime>03/26/2018 15:45:02</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/1005Alaska.jpg">
+      <publishTime>03/26/2018 15:45:56</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/1006Antik.jpg">
+      <publishTime>03/26/2018 15:46:10</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/1008Beyaz.jpg">
+      <publishTime>03/26/2018 15:45:42</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/1009Venezya.jpg">
+      <publishTime>03/26/2018 15:44:28</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/1010Venezya.jpg">
+      <publishTime>03/26/2018 15:44:38</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1000Baza.jpg">
+      <publishTime>03/26/2018 16:05:00</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1001Baza.jpg">
+      <publishTime>03/26/2018 16:04:06</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1004Baza.jpg">
+      <publishTime>03/26/2018 16:04:08</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1005Baza.jpg">
+      <publishTime>03/26/2018 16:17:08</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1006Baza.jpg">
+      <publishTime>05/02/2018 00:39:55</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1008Baza.jpg">
+      <publishTime>03/26/2018 16:05:06</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1023Kahve.jpg">
+      <publishTime>03/26/2018 15:56:12</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1023KoyuPembe.jpg">
+      <publishTime>03/26/2018 15:56:00</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1023Mavi.jpg">
+      <publishTime>03/26/2018 15:56:12</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1023Pembe.jpg">
+      <publishTime>03/26/2018 15:56:06</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/1024Alaska.jpg">
+      <publishTime>03/26/2018 15:56:08</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/818Cappucino.jpg">
+      <publishTime>03/26/2018 15:56:04</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/818Krem.jpg">
+      <publishTime>03/26/2018 15:55:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/819Kahve.jpg">
+      <publishTime>03/26/2018 15:56:06</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Baza/819Krem.jpg">
+      <publishTime>03/26/2018 15:55:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/1000CalismaMasasi.jpg">
+      <publishTime>03/26/2018 16:04:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/1001CalismaMasasi.jpg">
+      <publishTime>03/26/2018 16:04:16</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/1002CalismaMasasi.jpg">
+      <publishTime>03/26/2018 16:04:26</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/1004CalismaMasasi.jpg">
+      <publishTime>03/26/2018 16:04:10</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/1005CalismaMasasi.jpg">
+      <publishTime>03/26/2018 16:16:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/1006CalismaMasasi.jpg">
+      <publishTime>03/26/2018 16:17:42</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/1008CalismaMasasi.jpg">
+      <publishTime>03/26/2018 16:16:42</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/810Alaska.jpg">
+      <publishTime>03/26/2018 15:53:52</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/810Lefkas.jpg">
+      <publishTime>03/26/2018 15:53:56</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/811Alaska.jpg">
+      <publishTime>03/26/2018 15:53:46</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/811Antik.jpg">
+      <publishTime>03/26/2018 15:53:44</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/811Beyaz.jpg">
+      <publishTime>03/26/2018 15:53:42</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/CalismaMasasi/811Lefkas.jpg">
+      <publishTime>03/26/2018 15:53:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/SurguluDolap/1010SurguluDolap.jpg">
+      <publishTime>03/26/2018 16:16:14</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/TekKapiliDolap/1005TekKapiliDolap.jpg">
+      <publishTime>03/26/2018 16:16:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/TekKapiliDolap/1005TekKapiliDolapAcik.jpg">
+      <publishTime>03/26/2018 16:16:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/TekKapiliDolap/1006TekKapiliDolap.jpg">
+      <publishTime>03/26/2018 16:18:08</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/TekKapiliDolap/1007TekKapiliDolap.jpg">
+      <publishTime>03/26/2018 16:18:30</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/TekKapiliDolap/1007TekKapiliDolapAcik.jpg">
+      <publishTime>03/26/2018 16:18:26</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/TekKapiliDolap/1008TekKapiliDolap.jpg">
+      <publishTime>05/01/2018 21:29:32</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/TekKapiliDolap/1008TekKapiliDolapAcik.jpg">
+      <publishTime>03/26/2018 16:05:08</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/UcKapiliDolap/1000UcKapiliDolap.jpg">
+      <publishTime>03/26/2018 16:04:44</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/UcKapiliDolap/1002UcKapiliDolap.jpg">
+      <publishTime>03/26/2018 16:04:24</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/UcKapiliDolap/1004UcKapiliDolap.jpg">
+      <publishTime>03/26/2018 16:04:20</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/ÇiftKapiliDolap/1005CiftKapiliDolap.jpg">
+      <publishTime>03/26/2018 16:17:02</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/ÇiftKapiliDolap/1008CiftKapiliDolap.jpg">
+      <publishTime>03/26/2018 16:16:38</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Dolap/ÇiftKapiliDolap/1008CiftKapiliDolapAcik.jpg">
+      <publishTime>03/26/2018 16:04:36</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Kitaplik/1000Kitaplik.jpg">
+      <publishTime>03/26/2018 16:04:50</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Kitaplik/1003Kitaplik.jpg">
+      <publishTime>03/26/2018 16:19:14</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Kitaplik/1004Kitaplik.jpg">
+      <publishTime>03/26/2018 16:04:10</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Kitaplik/1005Kitaplik.jpg">
+      <publishTime>03/26/2018 16:16:50</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Kitaplik/1006Kitaplik.jpg">
+      <publishTime>05/01/2018 21:12:18</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1000Komodin.jpg">
+      <publishTime>03/26/2018 16:05:02</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1001Komodin.jpg">
+      <publishTime>03/26/2018 16:16:32</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1003Komodin.jpg">
+      <publishTime>03/26/2018 16:19:34</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1004Komodin.jpg">
+      <publishTime>03/26/2018 16:04:08</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1005Komodin.jpg">
+      <publishTime>03/26/2018 16:17:12</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1006Komodin.jpg">
+      <publishTime>03/26/2018 16:17:56</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1007Komodin.jpg">
+      <publishTime>03/26/2018 16:18:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1008Komodin.jpg">
+      <publishTime>03/26/2018 16:16:44</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1009Komodin.jpg">
+      <publishTime>03/26/2018 16:16:22</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Komodin/1010Komodin.jpg">
+      <publishTime>03/26/2018 16:05:10</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Sifonyer/1000Sifonyer.jpg">
+      <publishTime>03/26/2018 16:04:54</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Sifonyer/1001Sifonyer.jpg">
+      <publishTime>03/26/2018 16:04:18</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Sifonyer/1002Sifonyer.jpg">
+      <publishTime>03/26/2018 16:04:32</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Sifonyer/1004Sifonyer.jpg">
+      <publishTime>03/26/2018 16:04:14</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Sifonyer/1005Sifonyer.jpg">
+      <publishTime>03/26/2018 16:17:20</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Sifonyer/1006Sifonyer.jpg">
+      <publishTime>03/26/2018 16:17:34</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Sifonyer/1008Sifonyer.jpg">
+      <publishTime>03/26/2018 16:16:46</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Sifonyer/1009Sifonyer.jpg">
+      <publishTime>03/26/2018 16:16:28</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimlari/Sifonyer/1010Sifonyer.jpg">
+      <publishTime>03/26/2018 16:16:20</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimları/Baza/CF280298.jpg">
+      <publishTime>03/26/2018 15:56:12</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimları/Baza/CF280300.jpg">
+      <publishTime>03/26/2018 15:56:12</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimları/Baza/CF280302.jpg">
+      <publishTime>03/26/2018 15:56:08</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimları/Baza/CF280304.jpg">
+      <publishTime>03/26/2018 15:56:06</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimları/Baza/CF280307.jpg">
+      <publishTime>03/26/2018 15:56:06</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimları/Baza/CF280313.jpg">
+      <publishTime>03/26/2018 15:56:04</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimları/Baza/CF280315.jpg">
+      <publishTime>03/26/2018 15:56:00</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimları/Baza/CF280319.jpg">
+      <publishTime>03/26/2018 15:55:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/GencOdasiTakimları/Baza/CF280322.jpg">
+      <publishTime>03/26/2018 15:55:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Ofis/1020BilgisyarMasasi.jpg">
+      <publishTime>03/26/2018 15:58:42</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Ofis/1020OfisDolabi.jpg">
+      <publishTime>03/26/2018 15:58:44</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Ofis/1020OfisMasasi.jpg">
+      <publishTime>03/26/2018 15:58:40</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Ofis/1020Venezya.jpg">
+      <publishTime>03/26/2018 15:58:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Ofis/1021Lefkas.jpg">
+      <publishTime>03/26/2018 15:58:56</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Ofis/1021OfisDolabi.jpg">
+      <publishTime>03/26/2018 15:58:50</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Ofis/1021OfisMasası.jpg">
+      <publishTime>03/26/2018 15:58:52</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Ranzalar/1026.jpg">
+      <publishTime>03/26/2018 15:58:36</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Ranzalar/1027.jpg">
+      <publishTime>03/26/2018 15:58:38</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1014Beyaz.jpg">
+      <publishTime>03/26/2018 15:51:06</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1014Flora.jpg">
+      <publishTime>03/26/2018 15:50:10</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1014FloraAcik.jpg">
+      <publishTime>03/26/2018 15:51:04</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1014Venezya.jpg">
+      <publishTime>03/26/2018 15:51:54</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1014VenezyaAcik.jpg">
+      <publishTime>03/26/2018 15:51:54</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1015Beyaz.jpg">
+      <publishTime>03/26/2018 15:51:38</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1016BeyazAcik.jpg">
+      <publishTime>03/26/2018 15:51:36</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1016Venezya.jpg">
+      <publishTime>03/26/2018 15:52:02</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1016VenezyaAcik.jpg">
+      <publishTime>03/26/2018 15:51:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1017Beyaz.jpg">
+      <publishTime>03/26/2018 15:51:44</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1017BeyazAcik.jpg">
+      <publishTime>03/26/2018 15:51:42</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1017Venezya.jpg">
+      <publishTime>03/26/2018 15:51:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1017VenezyaAcik.jpg">
+      <publishTime>03/26/2018 15:51:46</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1018Alaska.jpg">
+      <publishTime>03/26/2018 15:54:22</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1018Antik.jpg">
+      <publishTime>03/26/2018 15:54:14</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1018Beyaz.jpg">
+      <publishTime>03/26/2018 15:54:04</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1018Lefkas.jpg">
+      <publishTime>03/26/2018 15:54:18</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1018Venezya.jpg">
+      <publishTime>03/26/2018 15:54:46</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1019Alaska.jpg">
+      <publishTime>03/26/2018 15:51:52</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1019Beyaz.jpg">
+      <publishTime>03/26/2018 15:51:40</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1019BeyazAcik.jpg">
+      <publishTime>03/26/2018 15:51:40</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/1019Venezya.jpg">
+      <publishTime>05/02/2018 00:23:29</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280040.jpg">
+      <publishTime>03/26/2018 15:51:54</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280041.jpg">
+      <publishTime>03/26/2018 15:51:54</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280043.jpg">
+      <publishTime>03/26/2018 15:51:52</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280044.jpg">
+      <publishTime>03/26/2018 15:51:50</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280045.jpg">
+      <publishTime>03/26/2018 15:51:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280103.jpg">
+      <publishTime>03/26/2018 15:51:40</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280105.jpg">
+      <publishTime>03/26/2018 15:51:40</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280117.jpg">
+      <publishTime>03/26/2018 15:51:38</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280147.jpg">
+      <publishTime>03/26/2018 15:51:06</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280237.jpg">
+      <publishTime>03/26/2018 15:51:04</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Sehpalar/CF280238.jpg">
+      <publishTime>03/26/2018 15:50:10</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/1012Alaska.jpg">
+      <publishTime>03/26/2018 15:59:40</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/1012Venezya.jpg">
+      <publishTime>03/26/2018 15:59:30</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/1013Antik.jpg">
+      <publishTime>03/26/2018 16:03:50</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/1013Lefkas.jpg">
+      <publishTime>03/26/2018 16:03:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/1013Venezya.jpg">
+      <publishTime>03/26/2018 16:03:52</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/807Antik.jpg">
+      <publishTime>03/26/2018 15:47:48</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/807IcDuzen.jpg">
+      <publishTime>03/26/2018 16:00:02</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/807Lefkas.jpg">
+      <publishTime>03/26/2018 16:03:56</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/807Venezya.jpg">
+      <publishTime>03/26/2018 15:59:58</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/809Antik.jpg">
+      <publishTime>03/26/2018 15:47:36</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/809IcDuzen.jpg">
+      <publishTime>03/26/2018 15:59:00</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/809Lefkas.jpg">
+      <publishTime>03/26/2018 15:59:06</publishTime>
+    </File>
+    <File Include="Images/Products/ModulerMobilyalar/Vestiyerler/809Venezya.jpg">
+      <publishTime>03/26/2018 15:59:24</publishTime>
+    </File>
+    <File Include="Images/SliderImages/genc_odasi_01.jpg">
+      <publishTime>05/01/2018 15:25:15</publishTime>
+    </File>
+    <File Include="Images/SliderImages/genc_odasi_02.jpg">
+      <publishTime>05/01/2018 15:25:43</publishTime>
+    </File>
+    <File Include="Images/SliderImages/genc_odasi_03.jpg">
+      <publishTime>05/01/2018 15:26:25</publishTime>
+    </File>
+    <File Include="Images/SliderImages/genc_odasi_04.jpg">
+      <publishTime>05/01/2018 15:26:59</publishTime>
+    </File>
+    <File Include="Images/SliderImages/genc_odasi_05.jpg">
+      <publishTime>05/01/2018 15:27:32</publishTime>
+    </File>
+    <File Include="Images/SliderImages/genc_odasi_06.jpg">
+      <publishTime>05/01/2018 15:28:27</publishTime>
+    </File>
+    <File Include="Images/SliderImages/genc_odasi_07.jpg">
+      <publishTime>05/01/2018 15:30:07</publishTime>
+    </File>
+    <File Include="Images/SliderImages/genc_odasi_08.jpg">
+      <publishTime>05/01/2018 15:31:00</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/01/2018 17:37:26</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>04/01/2018 17:36:59</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>04/01/2018 17:36:58</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>04/01/2018 17:37:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>04/01/2018 17:37:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>04/01/2018 17:36:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>04/01/2018 17:37:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>04/01/2018 17:37:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>04/01/2018 17:37:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>04/01/2018 17:37:16</publishTime>
+    </File>
+    <File Include="Scripts/map.js">
+      <publishTime>04/17/2018 22:59:58</publishTime>
+    </File>
+    <File Include="Scripts/MegaNavigation.js">
+      <publishTime>01/02/2015 15:14:02</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>04/01/2018 17:37:14</publishTime>
+    </File>
+    <File Include="Scripts/ProductGallery.js">
+      <publishTime>04/06/2018 18:09:09</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>04/01/2018 17:37:15</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>04/01/2018 17:37:15</publishTime>
+    </File>
+    <File Include="Scripts/slider.js">
+      <publishTime>04/04/2018 00:06:48</publishTime>
+    </File>
+    <File Include="Scripts/swiper.min.js">
+      <publishTime>04/17/2018 18:08:02</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>05/01/2018 23:36:19</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>04/17/2018 23:05:25</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/01/2018 16:53:36</publishTime>
+    </File>
+    <File Include="Views/Home/References.cshtml">
+      <publishTime>04/17/2018 22:14:37</publishTime>
+    </File>
+    <File Include="Views/Product/BahceMobilyalari.cshtml">
+      <publishTime>04/19/2018 21:44:11</publishTime>
+    </File>
+    <File Include="Views/Product/BarTabureleri.cshtml">
+      <publishTime>04/19/2018 21:44:30</publishTime>
+    </File>
+    <File Include="Views/Product/Bazalar.cshtml">
+      <publishTime>05/02/2018 00:54:24</publishTime>
+    </File>
+    <File Include="Views/Product/Besikler.cshtml">
+      <publishTime>04/19/2018 20:11:37</publishTime>
+    </File>
+    <File Include="Views/Product/CalismaMasalari.cshtml">
+      <publishTime>05/02/2018 01:03:12</publishTime>
+    </File>
+    <File Include="Views/Product/CiftKapiliDolaplar.cshtml">
+      <publishTime>05/02/2018 01:14:59</publishTime>
+    </File>
+    <File Include="Views/Product/CokAmacliDolaplar.cshtml">
+      <publishTime>05/02/2018 00:46:05</publishTime>
+    </File>
+    <File Include="Views/Product/DikdortgenMasalar.cshtml">
+      <publishTime>04/19/2018 21:46:32</publishTime>
+    </File>
+    <File Include="Views/Product/Dolaplar.cshtml">
+      <publishTime>05/02/2018 01:13:36</publishTime>
+    </File>
+    <File Include="Views/Product/GencOdasiTakimlari.cshtml">
+      <publishTime>04/19/2018 21:48:11</publishTime>
+    </File>
+    <File Include="Views/Product/GencOdasiUrunleri.cshtml">
+      <publishTime>05/02/2018 00:54:32</publishTime>
+    </File>
+    <File Include="Views/Product/Kitapliklar.cshtml">
+      <publishTime>05/02/2018 01:19:47</publishTime>
+    </File>
+    <File Include="Views/Product/Koltuklar.cshtml">
+      <publishTime>04/19/2018 21:47:31</publishTime>
+    </File>
+    <File Include="Views/Product/Komodinler.cshtml">
+      <publishTime>05/02/2018 01:24:56</publishTime>
+    </File>
+    <File Include="Views/Product/MasaAyaklari.cshtml">
+      <publishTime>04/19/2018 21:47:22</publishTime>
+    </File>
+    <File Include="Views/Product/Masalar.cshtml">
+      <publishTime>04/19/2018 21:47:11</publishTime>
+    </File>
+    <File Include="Views/Product/MasaSandalye.cshtml">
+      <publishTime>04/19/2018 21:48:30</publishTime>
+    </File>
+    <File Include="Views/Product/MasaSandalyeUrunleri.cshtml">
+      <publishTime>04/19/2018 21:54:59</publishTime>
+    </File>
+    <File Include="Views/Product/ModulerMobilyalar.cshtml">
+      <publishTime>04/19/2018 21:48:46</publishTime>
+    </File>
+    <File Include="Views/Product/OvalMasalar.cshtml">
+      <publishTime>04/19/2018 21:49:03</publishTime>
+    </File>
+    <File Include="Views/Product/Ranzalar.cshtml">
+      <publishTime>05/02/2018 01:36:00</publishTime>
+    </File>
+    <File Include="Views/Product/Sandalye.cshtml">
+      <publishTime>04/19/2018 21:49:26</publishTime>
+    </File>
+    <File Include="Views/Product/Sandalyeler.cshtml">
+      <publishTime>04/19/2018 21:49:12</publishTime>
+    </File>
+    <File Include="Views/Product/Sehpalar.cshtml">
+      <publishTime>05/02/2018 00:19:57</publishTime>
+    </File>
+    <File Include="Views/Product/Sezlonglar.cshtml">
+      <publishTime>04/19/2018 21:51:43</publishTime>
+    </File>
+    <File Include="Views/Product/Sifonyerler.cshtml">
+      <publishTime>05/02/2018 01:32:51</publishTime>
+    </File>
+    <File Include="Views/Product/SurguluDolaplar.cshtml">
+      <publishTime>05/02/2018 01:14:08</publishTime>
+    </File>
+    <File Include="Views/Product/TekKapiliDolaplar.cshtml">
+      <publishTime>05/02/2018 01:12:45</publishTime>
+    </File>
+    <File Include="Views/Product/UcKapiliDolaplar.cshtml">
+      <publishTime>05/02/2018 01:14:29</publishTime>
+    </File>
+    <File Include="Views/Product/Urunler.cshtml">
+      <publishTime>04/19/2018 21:53:42</publishTime>
+    </File>
+    <File Include="Views/Product/Vestiyerler.cshtml">
+      <publishTime>05/02/2018 01:42:05</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>04/01/2018 17:36:37</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>05/02/2018 01:11:59</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/01/2018 17:36:37</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>04/01/2018 17:36:37</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/01/2018 17:20:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

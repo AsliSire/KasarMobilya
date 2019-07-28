@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lang>
+	<item id="lng">EN</item>
+	<item id="lngLNG">en-US</item>
+	<item id="lngName">English</item>
+	<item id="charset">UTF-8</item>
+	<item id="dir">ltr</item>
+	<item id="changelng">Change Language</item>
+	<item id="changedlng">Language has been changed</item>
+
+	<item id="displayName">Display Name</item>
+	<item id="stringLength">The field {0} must be a string with a maximum length of {1}.</item>
+	<item id="required">Required</item>
+ 	<item id="description">Description</item>
+  
+    <item id="giris">For innovative places...</item>
+
+  <item id="title">KASAR DURABLE CONSUMPTION PRODUCTS</item>
+  <item id="menu">Menu</item>
+  <item id="homepage">Homepage</item>
+  <item id="urunlerimiz">Products</item>
+  <item id="kurumsal">About Us</item>
+  <item id="referanslarimiz">References</item>
+  <item id="iletisim">Contact</item>
+
+  <item id="tum">All</item>
+  <item id="masa_sandalye_takimlari">Table Chair Sets</item>
+  <item id="sandalyeler">Chairs</item>
+  <item id="sandalye">Chair</item>
+  <item id="ahsap_sandalye">Wooden Chair</item>
+  <item id="kapitone">Quilted</item>
+  <item id="takimi">Set</item>
+  <item id="torna">Lathe</item>
+  <item id="lukens">Lukens</item>
+  <item id="koltuklar">Armchairs</item>
+  <item id="koltuk">Armchair</item>
+  <item id="tekli">Single</item>
+  <item id="ciftli">Double</item>
+  <item id="uclu">Triple</item>
+  <item id="bombeli">Cambered</item>
+  <item id="dokme_sunger">Wool Sponge</item>
+  <item id="masalar">Tables</item>
+  <item id="masa">Table</item>
+  <item id="dikdortgen_masalar">Rectangular Tables</item>
+  <item id="oval_masalar">Oval Tables</item>
+  <item id="masa_ayaklari">Table Legs</item>
+  <item id="masa_ayagi">Table Leg</item>
+  <item id="aslan">Lion</item>
+  <item id="kral">King</item>
+  <item id="ekol">Ecole</item>
+  <item id="banket">Banquette</item>
+  <item id="sirtli">Backed</item>
+  <item id="bank">Bench</item>
+  <item id="sabit">Fixed</item>
+  <item id="profil">Profile</item>
+  <item id="konik">Conical</item>
+  <item id="ahtapot">Octopus</item>
+  <item id="katlanir">Collapsible</item>
+  <item id="cerceveli">Framed</item>
+  <item id="ciftli">Double</item>
+  <item id="bar_tabureleri">Bar Stools</item>
+  <item id="bar_taburesi">Bar Stool</item>
+  <item id="tabure">Stool</item>
+  <item id="ahsap">Wooden</item>
+  <item id="tel">Wire</item>
+  <item id="bahce_mobilyalari">Outdoor Furnitures</item>
+  <item id="takim">Suite</item>
+  <item id="oturma_grubu">Lounge Suite</item>
+  <item id="aluminyum">Aluminium</item>
+  <item id="minderli">With Cussion</item>
+  <item id="sabit_masa">Fixed Table</item>
+  <item id="alm_kollu">With Aluminium Arms</item>
+  <item id="kutuk">Log</item>
+  <item id="masa_tablasi">Table Slab</item>
+  <item id="kollu_dokum_snd">Casting Armchair</item>
+  <item id="camli">Glazed</item>
+  <item id="rattan_plastik">Hezaren Plastic</item>
+  <item id="moduler_mobilyalar">Modular Furnitures</item>
+  <item id="genc_odasi_takimlari">Young Room Sets</item>
+  <item id="genc_odasi">Young Room</item>
+  <item id="citali">Lathed</item>
+  <item id="bazalar">Bases</item>
+  <item id="baza">Base</item>
+  <item id="baza_basligi">Headboard</item>
+  <item id="dolaplar">Wardrobes</item>
+  <item id="tek_kapili_dolaplar">One Door Wardrobes</item>
+  <item id="tek_kapili_dolap">One Door Wardrobe</item>
+  <item id="cift_kapili_dolaplar">Two Doors Wardrobes</item>
+  <item id="cift_kapili_dolap">Two Doors Wardrobe</item>
+  <item id="uc_kapili_dolaplar">Three Doors Wardrobes</item>
+  <item id="uc_kapili_dolap">Three Doors Wardrobe</item>
+  <item id="surgulu_dolaplar">Sliding Wardrobes</item>
+  <item id="surgulu_dolap">Sliding Wardrobe</item>
+  <item id="kitapliklar">Bookcases</item>
+  <item id="kitaplik">Bookcase</item>
+  <item id="komodinler">Nightstands</item>
+  <item id="komodin">Nightstand</item>
+  <item id="calisma_masalari">Desks</item>
+  <item id="calisma_masasi">Desk</item>
+  <item id="sifonyerler">Chest of Drawers</item>
+  <item id="sifonyer">Chest of Drawers</item>
+  <item id="besikler">Cribs</item>
+  <item id="besik">Crib</item>
+  <item id="tekerlekli_besik">Wheeled Crib</item>
+  <item id="ranzalar">Bunks</item>
+  <item id="ranza">Bunk</item>
+  <item id="vestiyerler">Cloakrooms</item>
+  <item id="vestiyer">Cloakroom</item>
+  <item id="cok_amacli_dolaplar">Multipurpose Wardrobes</item>
+  <item id="cok_amacli_dolap">Multipurpose Wardrobe</item>
+  <item id="sehpalar">Coffee Tables</item>
+  <item id="sehpa">Coffee Table</item>
+  <item id="akilli_sehpa">Smart Coffee Table</item>
+  <item id="lukens_sehpa">Lukens Coffee Table</item>
+
+  <item id="hakkimizda">About Us</item>
+  <item id="footertext">
+    Quality, aesthetics, comfort ...
+    We realize our original designs by considering the habits and requirements of you, our customers. By using the latest possibilities of today's technology, we are fulfill modern and useful products that carries aesthetic values, that will bring a difference to your life. We are proud to be a part of your life by realizing what you have dreamed of with our existing development spirit and vast experience. We only produce sets of tables and chairs that make you say "I am at home", and unique to you...
+  </item>
+
+  <item id="kurumsaltext1">Kasar Trading was established in 1985 in Adana.</item>
+  <item id="kurumsaltext2">Plastic garden furniture continues to serve with wholesale and with our factory that we actuated in 2000,it realize its production of young rooms, baby rooms and baby cribs under the brand of KASAR DURABLE CONSUMPTION PRODUCTS brand. As KASAR DURABLE CONSUMPTION PRODUCTS, it's been offering its products, via near to 1000 companies, to the consumer's liking in Turkey. </item>
+  <item id="kurumsaltext3">Quality, aesthetics, comfort ... </item>
+  <item id="kurumsaltext4">Unusual styles that bring aesthetics together the useful details and combine innovation with freedom... </item>
+  <item id="kurumsaltext5">Our new 2018 collection; with tables and chairs, kitchen corner sets, outdoor furniture and chairs, is anew giving a novel touch to your life. Not only modern and stylish products, designs that will give your life a new pleasure every day... </item>
+  <item id="kurumsaltext6">We realize our original designs by considering the habits and requirements of you, our customers. By using the latest possibilities of today's technology, we are fulfill modern and useful products that carries aesthetic values, that will bring a difference to your life. We are proud to be a part of your life by realizing what you have dreamed of with our existing development spirit and vast experience. We only produce sets of tables and chairs that make you say "I am at home", and unique to you...</item>
+  <item id="kurumsaltext7">Aim is; always to offer better...</item>
+
+  <item id="name">Name</item>
+  <item id="email">E-mail</item>
+  <item id="phone">Phone</item>
+  <item id="comment">You can leave your messages and feedbacks here...</item>
+  <item id="mail">MAIL</item>
+  <item id="gsm">GSM</item>
+  <item id="adres">ADDRESS</item>
+  <item id="send">Send</item>
+
+
+  <item id="urun_kodu">Product Code:</item>
+  <item id="genislik">W</item>
+  <item id="derinlik">D</item>
+  <item id="yukseklik">H</item>
+
+  <item id="pembe">Pink</item>
+  <item id="koyu_pembe">Dark Pink</item>
+  <item id="mavi">Blue</item>
+  <item id="sari">Yellow</item>
+  <item id="beyaz">White</item>
+  <item id="antik_beyaz">Antique White</item>
+  <item id="yesil">Green</item>
+  <item id="kirmizi">Red</item>
+  <item id="lacivert">Dark Blue</item>
+  <item id="kapucino">Cappucino</item>
+  <item id="krem">Cream</item>
+  <item id="alaska">Alaska</item>
+  <item id="venezya">Venezya</item>
+  <item id="lefkas">Lefkas</item>
+  <item id="flora">Flora</item>
+  <item id="kahve">Brown</item>
+  <item id="siyah">Black</item>
+  <item id="antrasit">Anthracite</item>
+  <item id="ceviz">Walnut</item>
+
+
+</lang>

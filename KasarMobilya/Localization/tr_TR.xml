@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lang>
+	<item id="lng">TR</item>
+	<item id="lngLNG">tr-TR</item>
+	<item id="lngName">Türkçe</item>
+	<item id="charset">UTF-8</item>
+	<item id="dir">ltr</item>
+	<item id="changelng">Dili Değiştir</item>
+	<item id="changedlng">Dil değiştirildi</item>
+  
+	<item id="displayName">Ad Soyad</item>
+	<item id="stringLength">{0} için girilen değer {2} karakterden kısa olamaz.</item>
+	<item id="required">Bu alan gerekli</item>
+	<item id="description">Açıklama</item>
+
+  <item id="giris">Yenilikçi mekanlar için...</item>
+
+  <item id="title">KASAR DAYANIKLI TÜKETİM ÜRÜNLERİ</item>
+  <item id="menu">Menü</item>
+	<item id="homepage">Anasayfa</item>
+  <item id="urunlerimiz">Urunlerimiz</item>
+  <item id="kurumsal">Kurumsal</item>
+  <item id="referanslarimiz">Referanslarımız</item>
+  <item id="iletisim">Iletisim</item>
+
+  <item id="tum">Tüm</item>
+  <item id="masa_sandalye_takimlari">Masa Sandalye Takımları</item>
+  <item id="sandalyeler">Sandalyeler</item>
+  <item id="sandalye">Sandalye</item>
+  <item id="ahsap_sandalye">Ahşap Sandalye</item>
+  <item id="kapitone">Kapitone</item>
+  <item id="takimi">Takımı</item>
+  <item id="torna">Torna</item>
+  <item id="lukens">Lükens</item>
+  <item id="koltuklar">Koltuklar</item>
+  <item id="koltuk">Koltuk</item>
+  <item id="tekli">Tekli</item>
+  <item id="ciftli">Çiftli</item>
+  <item id="uclu">Üçlü</item>
+  <item id="bombeli">Bombeli</item>
+  <item id="dokme_sunger">Dökme Sünger</item>
+  <item id="masalar">Masalar</item>
+  <item id="masa">Masa</item>
+  <item id="dikdortgen_masalar">Dikdörtgen Masalar</item>
+  <item id="oval_masalar">Oval Masalar</item>
+  <item id="masa_ayaklari">Masa Ayakları</item>
+  <item id="masa_ayagi">Masa Ayağı</item>
+  <item id="aslan">Aslan</item>
+  <item id="kral">Kral</item>
+  <item id="ekol">Ekol</item>
+  <item id="banket">Banket</item>
+  <item id="sirtli">Sırtlı</item>
+  <item id="bank">Bank</item>
+  <item id="sabit">Sabit</item>
+  <item id="profil">Profil</item>
+  <item id="konik">Konik</item>
+  <item id="ahtapot">Ahtapot</item>
+  <item id="katlanir">Katlanır</item>
+  <item id="cerceveli">Çerçeveli</item>
+  <item id="ciftli">Çiftli</item>
+  <item id="bar_tabureleri">Bar Tabureleri</item>
+  <item id="bar_taburesi">Bar Taburesi</item>
+  <item id="tabure">Tabure</item>
+  <item id="ahsap">Ahşap</item>
+  <item id="tel">Tel</item>
+  <item id="bahce_mobilyalari">Bahçe Mobilyaları</item>
+  <item id="takim">Takım</item>
+  <item id="aluminyum">Alüminyum</item>
+  <item id="minderli">Minderli</item>
+  <item id="sabit_masa">Sabit Masa</item>
+  <item id="alm_kollu">Alüminyum Kollu</item>
+  <item id="oturma_grubu">Oturma Grubu</item>
+  <item id="kutuk">Kütük</item>
+  <item id="masa_tablasi">Masa Tablası</item>
+  <item id="kollu_dokum_snd">Kollu Döküm Sandalye</item>
+  <item id="camli">Camlı</item>
+  <item id="rattan_plastik">Rattan Plastik</item>
+  <item id="moduler_mobilyalar">Modüler Mobilyalar</item>
+  <item id="genc_odasi_takimlari">Genç Odası Takımları</item>
+  <item id="genc_odasi">Genç Odası</item>
+  <item id="citali">Çıtalı</item>
+  <item id="bazalar">Bazalar</item>
+  <item id="baza">Baza</item>
+  <item id="baza_basligi">Baza Başlığı</item>
+  <item id="dolaplar">Dolaplar</item>
+  <item id="tek_kapili_dolaplar">Tek Kapılı Dolaplar</item>
+  <item id="tek_kapili_dolap">Tek Kapılı Dolap</item>
+  <item id="cift_kapili_dolaplar">Çift Kapılı Dolaplar</item>
+  <item id="cift_kapili_dolap">Çift Kapılı Dolap</item>
+  <item id="uc_kapili_dolaplar">Üç Kapılı Dolaplar</item>
+  <item id="uc_kapili_dolap">Üç Kapılı Dolap</item>
+  <item id="surgulu_dolaplar">Sürgülü Dolaplar</item>
+  <item id="surgulu_dolap">Sürgülü Dolap</item>
+  <item id="kitapliklar">Kitaplıklar</item>
+  <item id="kitaplik">Kitaplık</item>
+  <item id="komodinler">Komodinler</item>
+  <item id="komodin">Komodin</item>
+  <item id="calisma_masalari">Çalışma Masaları</item>
+  <item id="calisma_masasi">Çalışma Masası</item>
+  <item id="sifonyerler">Şifonyerler</item>
+  <item id="sifonyer">Şifonyer</item>
+  <item id="besikler">Beşikler</item>
+  <item id="besik">Beşik</item>
+  <item id="tekerlekli_besik">Tekerlekli Beşik</item>
+  <item id="ranzalar">Ranzalar</item>
+  <item id="ranza">Ranza</item>
+  <item id="vestiyerler">Vestiyerler</item>
+  <item id="vestiyer">Vestiyer</item>
+  <item id="cok_amacli_dolaplar">Çok Amaçlı Dolaplar</item>
+  <item id="cok_amacli_dolap">Çok Amaçlı Dolap</item>
+  <item id="sehpalar">Sehpalar</item>
+  <item id="sehpa">Sehpa</item>
+  <item id="akilli_sehpa">Akıllı Sehpa</item>
+  <item id="lukens_sehpa">Lükens Sehpa</item>
+
+
+  <item id="hakkimizda">Hakkımızda</item>
+  <item id="footertext">
+    Kalite, estetik, rahatlık...
+    Özgün tasarımlarımızı, siz kullanıcılarımızın alışkanlıkları ve gereksinimlerini düşünerek gerçekleştiriyoruz. Günümüz teknolojisinin en son olanaklarını kullanarak yaşamınıza farklılık katacak , estetik değerler taşıyan dayanıklı, modern ve kullanışlı ürünleri hayata geçiriyoruz. Var olan gelişme ruhumuzla ve engin tecrübemizle düşlediklerinizi gerçekleştirerek yaşamınızın bir parçası olmaktan gurur duyuyoruz. Sadece size özgü olan ve size "evimdeyim" dedirten masa ve sandalye takımları üretiyoruz...
+  </item>
+
+  <item id="kurumsaltext1">Kasar Ticaret, 1985 yılında Adana'da kurulmuştur.</item>
+  <item id="kurumsaltext2">
+    Plastik bahçe mobilyaları toptan satışı ile hizmetinize devam etmekte olup, 2000 yılında faaliyete geçirdiğimiz fabrikamızla KASAR DAYANIKLI TÜKETİM ÜRÜNLERİ
+    markası altında, genç odaları, bebek odaları ve bebek beşikleri imalatını gerçekleştirmektedir. KASAR DAYANIKLI TÜKETİM ÜRÜNLERİ olarak Türkiye'de 1000'e yakın firma aracılığıyla ürünlerini tüketicinin beğenisine sunmaktadır.</item>
+  <item id="kurumsaltext3">Kalite, estetik, rahatlık... </item>
+  <item id="kurumsaltext4">Estetiği kullanışlı ayrıntılarla bir araya getiren, yeniliği özgünlükle buluşturan farklı stiller... </item>
+  <item id="kurumsaltext5">2018 yeni koleksiyonumuz; masa ve sandalye, mutfak köşe takımları, bahçe mobilyaları ve sandalye çeşitleri ile hayatınıza yeniden renk katıyor. Sadece modern ve şık ürünler değil, hayatınıza her gün yeni bir keyif katacak tasarımlar... </item>
+  <item id="kurumsaltext6">Özgün tasarımlarımızı, siz kullanıcılarımızın alışkanlıkları ve gereksinimlerini düşünerek gerçekleştiriyoruz. Günümüz teknolojisinin en son olanaklarını kullanarak yaşamınıza farklılık katacak , estetik değerler taşıyan dayanıklı, modern ve kullanışlı ürünleri hayata geçiriyoruz. Var olan gelişme ruhumuzla ve engin tecrübemizle düşlediklerinizi gerçekleştirerek yaşamınızın bir parçası olmaktan gurur duyuyoruz. Sadece size özgü olan ve size "evimdeyim" dedirten masa ve sandalye takımları üretiyoruz... </item>
+  <item id="kurumsaltext7">Amaç; hep daha iyisini sunmak...</item>
+
+  <item id="name">İsminiz</item>
+  <item id="email">E-posta</item>
+  <item id="phone">Telefon</item>
+  <item id="comment">Mesaj ve geribildirimlerinizi buraya yazabilirsiniz...</item>
+  <item id="mail">MAIL</item>
+  <item id="gsm">GSM</item>
+  <item id="adres">ADRES</item>
+  <item id="send">Gönder</item>
+
+
+
+  <item id="urun_kodu">Ürün Kodu:</item>
+  <item id="genislik">G</item>
+  <item id="derinlik">D</item>
+  <item id="yukseklik">Y</item>
+
+
+  <item id="pembe">Pembe</item>
+  <item id="koyu_pembe">Koyu Pembe</item>
+  <item id="mavi">Mavi</item>
+  <item id="sari">Sarı</item>
+  <item id="beyaz">Beyaz</item>
+  <item id="antik_beyaz">Antik Beyaz</item>
+  <item id="yesil">Yeşil</item>
+  <item id="kirmizi">Kırmızı</item>
+  <item id="lacivert">Lacivert</item>
+  <item id="kapucino">Kapuçino</item>
+  <item id="krem">Krem</item>
+  <item id="alaska">Alaska</item>
+  <item id="venezya">Venezya</item>
+  <item id="lefkas">Lefkas</item>
+  <item id="flora">Flora</item>
+  <item id="kahve">Kahve</item>
+  <item id="siyah">Siyah</item>
+  <item id="antrasit">Antrasit</item>
+  <item id="ceviz">Ceviz</item>
+
+  
+
+</lang>

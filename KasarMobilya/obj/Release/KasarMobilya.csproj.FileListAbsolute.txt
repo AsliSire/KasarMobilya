@@ -1,0 +1,366 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\ApplicationInsights.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\csi.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\KasarMobilya.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\en\KasarMobilya.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\WebGrease.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.Global.en.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\obj\Release\en\KasarMobilya.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Insya.Localization.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\KasarMobilya\KasarMobilya\KasarMobilya\bin\Insya.Localization.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\ApplicationInsights.config
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll.config
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\KasarMobilya.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\en\KasarMobilya.resources.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Insya.Localization.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Insya.Localization.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.Global.en.resources
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\obj\Release\en\KasarMobilya.resources.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.dll
+C:\Users\Lenovo\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\ApplicationInsights.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\KasarMobilya.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\en\KasarMobilya.resources.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Insya.Localization.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Insya.Localization.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.Global.en.resources
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\en\KasarMobilya.resources.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\ApplicationInsights.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll.config
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\KasarMobilya.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\en\KasarMobilya.resources.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Insya.Localization.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\WebGrease.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Insya.Localization.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.Global.en.resources
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\en\KasarMobilya.resources.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.dll
+C:\Users\Lenovo\Desktop\KasarMobilya değişim\KasarMobilya değişim\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.pdb
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\ApplicationInsights.config
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csc.exe.config
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csc.rsp
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csi.exe
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\csi.rsp
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.AppContext.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\vbc.exe.config
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\vbc.rsp
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll.config
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\KasarMobilya.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\KasarMobilya.pdb
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\en\KasarMobilya.resources.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Insya.Localization.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Razor.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\WebGrease.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Insya.Localization.pdb
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Helpers.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Mvc.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Optimization.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.Razor.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Antlr3.Runtime.pdb
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Newtonsoft.Json.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\bin\Microsoft.AI.Web.xml
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csprojAssemblyReference.cache
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.Global.en.resources
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csproj.GenerateResource.cache
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csproj.CoreCompileInputs.cache
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\obj\Release\en\KasarMobilya.resources.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.csproj.CopyComplete
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.dll
+C:\Users\Aslı Nazlı\Desktop\KasarMobilya\KasarMobilya\obj\Release\KasarMobilya.pdb

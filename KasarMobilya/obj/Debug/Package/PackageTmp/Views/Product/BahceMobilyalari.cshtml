@@ -1,0 +1,57 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section MyOtherJavascript {
+    <script type="text/javascript" src="~/Scripts/ProductGallery.js"></script>
+}
+
+<div class="gallery">
+    <figure>
+        <img src="~/Images/Products/BahceMobilyalari/bahce_1.jpg" />
+        <div class="product">324 @Html.Localize("takim").ToString()</div>
+        <div class="information">
+            @Html.Localize("oturma_grubu").ToString(), @Html.Localize("aluminyum").ToString(), @Html.Localize("minderli").ToString()        
+        </div>
+    </figure>
+    <figure>
+        <img src="~/Images/Products/BahceMobilyalari/bahce_2.jpg" />
+        <div class="product">325 @Html.Localize("takim").ToString(), @Html.Localize("beyaz").ToString()</div>
+        <div class="information">
+            348 @Html.Localize("sabit_masa").ToString(), @Html.Localize("aluminyum").ToString() 90x150 <br />
+            349 @Html.Localize("sandalye").ToString(), @Html.Localize("alm_kollu").ToString()
+        </div>
+    </figure>
+    <figure>
+        <img src="~/Images/Products/BahceMobilyalari/bahce_3.jpg" />
+        <div class="product">325 @Html.Localize("takim").ToString(), @Html.Localize("antrasit").ToString()</div>
+        <div class="information">
+            348 @Html.Localize("sabit_masa").ToString(), @Html.Localize("aluminyum").ToString() 90x150 <br />
+            349 @Html.Localize("sandalye").ToString(), @Html.Localize("alm_kollu").ToString()
+        </div>
+    </figure>
+    <figure>
+        <img src="~/Images/Products/BahceMobilyalari/bahce_6.jpg" />
+        <div class="product">331 @Html.Localize("takim").ToString()</div>
+        <div class="information">
+            365 @Html.Localize("masa_ayagi").ToString()<br />
+            @Html.Localize("kutuk").ToString() @Html.Localize("masa_tablasi").ToString()<br />
+            953 @Html.Localize("kollu_dokum_snd").ToString()
+        </div>
+    </figure>
+    <figure>
+        <img src="~/Images/Products/BahceMobilyalari/bahce_5.jpg" />
+        <div class="product">327 @Html.Localize("takim").ToString(), Wenge</div>
+        <div class="information">
+            351 Osaka @Html.Localize("camli").ToString() @Html.Localize("rattan_plastik").ToString() @Html.Localize("masa").ToString() 90x150<br />
+            365 Royal @Html.Localize("rattan_plastik").ToString() @Html.Localize("koltuk").ToString()
+        </div>
+    </figure>
+    <figure>
+        <img src="~/Images/Products/BahceMobilyalari/bahce_4.jpg" />
+        <div class="product">327 @Html.Localize("takim").ToString(), @Html.Localize("beyaz").ToString()</div>
+        <div class="information">
+            351 Osaka @Html.Localize("camli").ToString() @Html.Localize("rattan_plastik").ToString() @Html.Localize("masa").ToString() 90x150<br />
+            365 Royal @Html.Localize("rattan_plastik").ToString() @Html.Localize("koltuk").ToString()
+        </div>
+    </figure>
+</div>

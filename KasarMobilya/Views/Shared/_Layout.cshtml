@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="~/Images/favicon.ico" type="image/x-icon" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Html.Localize("title").ToString()</title>
+    @*<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">*@
+    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css'>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <center><div class="cercevelogo"><img src="~/Images/logo.svg" /></div></center>
+    <div id='cssmenu'>
+        <ul>
+            <li><a href="@Url.Action("Index","Home")">@Html.Localize("homepage").ToString()</a></li>
+            <li class="active">
+                <a>@Html.Localize("urunlerimiz").ToString()</a>
+                <ul>
+                    <li>
+                        <a href="@Url.Action("MasaSandalye","Product")">@Html.Localize("masa_sandalye_takimlari")</a>
+                        <ul>
+                            <li><a href="#0">@Html.Localize("masalar").ToString()</a></li>
+                            <li><a href="@Url.Action("MasaAyaklari","Product")">@Html.Localize("masa_ayaklari").ToString()</a></li>
+                            <li><a href="@Url.Action("Sandalyeler","Product")">@Html.Localize("sandalyeler").ToString()</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="@Url.Action("BarTabureleri","Product")">@Html.Localize("bar_tabureleri").ToString()</a></li>
+                    <li><a href="@Url.Action("BahceMobilyalari","Product")">@Html.Localize("bahce_mobilyalari").ToString()</a></li>
+
+                    <li>
+                        <a href="#0">@Html.Localize("moduler_mobilyalar")</a>
+                        <ul>
+                            <li>
+                                <a href="@Url.Action("GencOdasiUrunleri","Product")">@Html.Localize("genc_odasi_takimlari").ToString()</a>
+                                <ul>
+                                    <li><a href="@Url.Action("Bazalar","Product")">@Html.Localize("bazalar").ToString()</a></li>
+                                    <li><a href="@Url.Action("Dolaplar","Product")">@Html.Localize("dolaplar").ToString()</a></li>
+                                    <li><a href="@Url.Action("Kitapliklar","Product")">@Html.Localize("kitapliklar").ToString()</a></li>
+                                    <li><a href="@Url.Action("Komodinler","Product")">@Html.Localize("komodinler").ToString()</a></li>
+                                    <li><a href="@Url.Action("CalismaMasalari","Product")">@Html.Localize("calisma_masalari").ToString()</a></li>
+                                    <li><a href="@Url.Action("Sifonyerler","Product")">@Html.Localize("sifonyerler").ToString()</a></li>
+
+                                </ul>
+                            </li>
+                            <li><a href="@Url.Action("Besikler","Product")">@Html.Localize("besikler").ToString()</a></li>
+                            <li><a href="@Url.Action("Ranzalar","Product")">@Html.Localize("ranzalar").ToString()</a></li>
+                            <li><a href="@Url.Action("Vestiyerler","Product")">@Html.Localize("vestiyerler").ToString()</a></li>
+                            <li><a href="@Url.Action("CokAmacliDolaplar","Product")">@Html.Localize("cok_amacli_dolaplar").ToString()</a></li>
+                            <li><a href="@Url.Action("Sehpalar","Product")">@Html.Localize("sehpalar").ToString()</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </li>
+            <li>@Html.ActionLink(@Html.Localize("kurumsal").ToString(), "About", "Home")</li>
+            <li>@Html.ActionLink(@Html.Localize("iletisim").ToString(), "Contact", "Home")</li>
+            <li class="languageselector">@Html.ActionLinkLocalization("En", "Index", "Locales", new { lang = "en_US" })</li>
+            <li class="languageselector">@Html.ActionLinkLocalization("Tr", "Index", "Locales", new { lang = "tr_TR" })</li>
+        </ul>
+
+    </div>
+
+    @RenderBody()
+
+    <footer class="footer">
+        <div class="footer-left col-md-4 col-sm-6">
+            <p class="about">
+                <span>@Html.Localize("hakkimizda").ToString()</span>@Html.Localize("footertext").ToString()
+
+            </p>
+            <div class="icons">
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-linkedin"></i></a>
+                <a href="#"><i class="fa fa-google-plus"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+            </div>
+        </div>
+        <div class="footer-center col-md-4 col-sm-6">
+            <div>
+                <i class="fa fa-map-marker"></i>
+                <p><span> Güzelevler Mah. Mobilyacılar Sit. Buket Sokak No:6/A </span> Yüreğir / Adana / Türkiye </p>
+            </div>
+            <div>
+                <i class="fa fa-mobile-phone"></i>
+                <p>(+90) 0507 208 17 70</p>
+            </div>
+            <div>
+                <i class="fa fa-phone"></i>
+                <p>(+90) 0322 346 57 30 </p>
+            </div>
+            <div>
+                <i class="fa fa-envelope"></i>
+                <p><a href="">info@kasar.com.tr</a></p>
+            </div>
+        </div>
+        <div class="footer-right col-md-4 col-sm-6">
+            <img id="footerlogo" src="~/Images/logo.svg" />
+            <p class="menu">
+                <a href="@Url.Action("Index","Home")">@Html.Localize("homepage").ToString()</a> |
+                <a href="@Url.Action("About","Home")">@Html.Localize("kurumsal").ToString()</a> |
+                <a href="@Url.Action("Contact","Home")">@Html.Localize("iletisim").ToString()</a>
+            </p>
+            <p>&copy; @DateTime.Now.Year - Created by Aslı Şire</p>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @if (IsSectionDefined("MyOtherJavascript"))
+    {
+        @RenderSection("MyOtherJavascript");
+    }
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>
