@@ -18,10 +18,13 @@
   <item id="title">KASAR DAYANIKLI TÜKETİM ÜRÜNLERİ</item>
   <item id="menu">Menü</item>
 	<item id="homepage">Anasayfa</item>
-  <item id="urunlerimiz">Urunlerimiz</item>
+  <item id="urunlerimiz">Ürünlerimiz</item>
   <item id="kurumsal">Kurumsal</item>
   <item id="referanslarimiz">Referanslarımız</item>
-  <item id="iletisim">Iletisim</item>
+  <item id="iletisim">İletişim</item>
+  <item id="kataloglarimiz">Kataloglarımız</item>
+  <item id="MasaSandalyeKatalogu">Masa Sandalye Kataloğu</item>
+
 
   <item id="tum">Tüm</item>
   <item id="masa_sandalye_takimlari">Masa Sandalye Takımları</item>

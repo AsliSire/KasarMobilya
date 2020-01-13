@@ -1,9 +1,14 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="tr_TR">
 <head>
     <link rel="shortcut icon" href="~/Images/favicon.ico" type="image/x-icon" />
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Ev Dekorasyon Ürünleri">
+    <meta name="keyword" content="mobilya,dayanıklı tüketim ürünleri,mutfak masası,çalışma masası,sandalye,yemek masası,bahçe mobilyaları,mutfak masa takımları,katlanır masa,katlanır sandalye,yemek masası takımı,ofis mobilyaları,ofis sandalyesi,balkon masası,bahçe salıncağı,çalışma sandalyesi,mutfak sandalyesi,masa sandalye,plastik sandalye,mutfak masa sandalye,ahşap masa,masa sandalye takımı,bar sandalyesi,oturma odası,bilgisayar masası,masa ayakları,açılır kapanır masa,bahçe masası,yemek masası sandalyesi,genç odası modelleri,balkon oturma grubu">
+    <meta http-equiv="refresh" content="200">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 days">
     <title>@Html.Localize("title").ToString()</title>
     @*<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">*@
     <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css'>
@@ -58,10 +63,15 @@
             </li>
             <li>@Html.ActionLink(@Html.Localize("kurumsal").ToString(), "About", "Home")</li>
             <li>@Html.ActionLink(@Html.Localize("iletisim").ToString(), "Contact", "Home")</li>
+            <li class="active">
+                <a>@Html.Localize("kataloglarimiz").ToString()</a>
+                        <ul>
+                            <li><a target="_blank" href="~/Images/Catalogs/kasar_katalog.pdf">@Html.Localize("MasaSandalyeKatalogu").ToString()</a></li>
+                        </ul>
+                    </li>
             <li class="languageselector">@Html.ActionLinkLocalization("En", "Index", "Locales", new { lang = "en_US" })</li>
             <li class="languageselector">@Html.ActionLinkLocalization("Tr", "Index", "Locales", new { lang = "tr_TR" })</li>
         </ul>
-
     </div>
 
     @RenderBody()
